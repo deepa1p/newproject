@@ -12,7 +12,7 @@ public class Launch {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\raj\\eclipse-workspace\\Sample\\driver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com/");
-		driver.get("https://www.google.com/");
+		driver.get("https://www.facebook.com/");
 
 		
 	}
