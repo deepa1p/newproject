@@ -1,8 +1,7 @@
 package org.cap.Selenium;
 
 import org.openqa.selenium.WebDriver;
-
-import java.lang.*;
+import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Launch {
 	
